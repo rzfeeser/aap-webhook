@@ -21,7 +21,7 @@ If you found a video helpful, be sure to hit **like** and **subscribe** for week
 
 
 ## How It Works
-This is just a simple playbook that pushes some static strings to standard out when triggered. The magic is in **repo > Settings > Webhooks** and configuring a webhook, so that event data is delivered to Ansible Automation Platfrom (AAP) when events occur in GitHub.
+This is just a simple Ansible playbook that pushes some static strings to standard out when triggered. The magic is in **repo > Settings > Webhooks** and configuring a webhook, so that event data is delivered to Ansible Automation Platfrom (AAP) when events occur in GitHub.
 
 
 ## Resources
